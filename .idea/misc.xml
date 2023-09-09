@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/AMEY/AndroidStudioProjects/ASCR/app/src/main/res/drawable/contactlookandfeel.xml" value="0.294" />
+        <entry key="..\:/Users/AMEY/AndroidStudioProjects/ASCR/app/src/main/res/drawable/edittextlookandfeel.xml" value="0.2985" />
+        <entry key="..\:/Users/AMEY/AndroidStudioProjects/ASCR/app/src/main/res/drawable/ic_bluetooth_icon_670069.xml" value="0.294" />
+        <entry key="..\:/Users/AMEY/AndroidStudioProjects/ASCR/app/src/main/res/drawable/ic_contact_book_contacts_notebook.xml" value="0.294" />
+        <entry key="..\:/Users/AMEY/AndroidStudioProjects/ASCR/app/src/main/res/drawable/ic_lock_6518557.xml" value="0.294" />
+        <entry key="..\:/Users/AMEY/AndroidStudioProjects/ASCR/app/src/main/res/drawable/ic_login_wave2.xml" value="0.294" />
+        <entry key="..\:/Users/AMEY/AndroidStudioProjects/ASCR/app/src/main/res/drawable/ic_motorcycle_2773424.xml" value="0.294" />
+        <entry key="..\:/Users/AMEY/AndroidStudioProjects/ASCR/app/src/main/res/drawable/ic_register2.xml" value="0.294" />
+        <entry key="..\:/Users/AMEY/AndroidStudioProjects/ASCR/app/src/main/res/drawable/ic_sun_sunny_cloudy_cloud_weather_forecast.xml" value="0.294" />
+        <entry key="..\:/Users/AMEY/AndroidStudioProjects/ASCR/app/src/main/res/drawable/ic_wave__2_.xml" value="0.205" />
+        <entry key="..\:/Users/AMEY/AndroidStudioProjects/ASCR/app/src/main/res/drawable/startservicestyle.xml" value="0.294" />
+        <entry key="..\:/Users/AMEY/AndroidStudioProjects/ASCR/app/src/main/res/drawable/stopservicestyle.xml" value="0.294" />
+        <entry key="..\:/Users/AMEY/AndroidStudioProjects/ASCR/app/src/main/res/drawable/submitbuttonlookandfell.xml" value="0.289" />
+        <entry key="..\:/Users/AMEY/AndroidStudioProjects/ASCR/app/src/main/res/layout/activity_dashboard.xml" value="0.3625" />
+        <entry key="..\:/Users/AMEY/AndroidStudioProjects/ASCR/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/AMEY/AndroidStudioProjects/ASCR/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/AMEY/AndroidStudioProjects/ASCR/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/Users/AMEY/AndroidStudioProjects/ASCR/app/src/main/res/layout/contact_layout.xml" value="0.25" />
+        <entry key="..\:/Users/AMEY/AndroidStudioProjects/ASCR/app/src/main/res/layout/update_contact_layout.xml" value="0.3203125" />
+        <entry key="..\:/Users/AMEY/AndroidStudioProjects/ASCR/app/src/main/res/mipmap-anydpi-v26/app_icon_launcher.xml" value="0.212" />
+        <entry key="..\:/Users/AMEY/AndroidStudioProjects/ASCR/app/src/main/res/mipmap-anydpi-v26/ic_app_launcher.xml" value="0.2585" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
